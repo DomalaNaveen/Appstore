@@ -1,0 +1,15 @@
+.tab-item {
+  list-style-type: none;
+}
+.tab-button {
+  outline: none;
+  cursor: pointer;
+}
+.heading {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.active {
+  color: #2563eb;
+}
